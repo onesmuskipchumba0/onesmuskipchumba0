@@ -55,7 +55,7 @@ A robust hospital management system developed using Python and Django. Includes 
 
 ## 📈 GitHub Stats
 
-![Onesmus's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ONESMUSBETT&show_icons=true&theme=radical)
+![Onesmus's GitHub Stats](https://github-readme-stats.vercel.app/api?username=onesmuskipchumba0&show_icons=true&theme=radical)
 
 ## 🔗 Connect with Me
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/onesmuskipchumba0)](https://github.com/onesmuskipchumba0)
