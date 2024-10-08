@@ -1,7 +1,7 @@
-- 👋 Hi, I’m onesmus bett
+
+# 👋 Hello, I'm Onesmus Bett!
 - 👀 I’m interested in coding with python and javascript
 - 
-# 👋 Hello, I'm Onesmus Bett!
 ![logo_2](https://github.com/user-attachments/assets/a1012678-9c51-429c-9f35-986798b357ca)
 
 
@@ -66,9 +66,7 @@ A robust hospital management system developed using Python and Django. Includes 
 
 I'm always open to new opportunities and collaborations. Feel free to reach out to me for any projects, ideas, or just to say hi!
 
----
 
-Feel free to customize the links, text, and image URLs to match your personal information and style.
 
 
 <!---
