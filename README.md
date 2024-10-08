@@ -1,7 +1,6 @@
 
 # 👋 Hello, I'm Onesmus Bett!
 - 👀 I’m interested in coding with python and javascript
-- 
 ![logo_2](https://github.com/user-attachments/assets/a1012678-9c51-429c-9f35-986798b357ca)
 
 
