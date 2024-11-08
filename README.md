@@ -1,5 +1,4 @@
 
-
 # 👋 Hello, I'm Onesmus Bett!
 
 **🌟 Full-Stack Developer | Python & JavaScript Enthusiast | Web & Desktop Application Developer 🌟**
@@ -29,16 +28,16 @@ I'm a passionate Computer Science student and developer specializing in creating
 ### 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy"/>
-  <img src="https://img.shields.io/badge/Matplotlib-0C55C2?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&size=2x" height="40" alt="Tailwind CSS"/>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white&size=2x" height="40" alt="HTML"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white&size=2x" height="40" alt="CSS"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&size=2x" height="40" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&size=2x" height="40" alt="React"/>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&size=2x" height="40" alt="React Native"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white&size=2x" height="40" alt="Django"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&size=2x" height="40" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white&size=2x" height="40" alt="Numpy"/>
+  <img src="https://img.shields.io/badge/Matplotlib-0C55C2?style=for-the-badge&logo=matplotlib&logoColor=white&size=2x" height="40" alt="Matplotlib"/>
 </p>
 
 ---
@@ -51,11 +50,13 @@ I'm a passionate Computer Science student and developer specializing in creating
 
 ## 🔗 Connect with Me
 
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/onesmuskipchumba0)](https://github.com/onesmuskipchumba0)  
-[![Email](https://img.shields.io/badge/Email-onesmuskipchumba5%40gmail.com-blue)](mailto:onesmuskipchumba5@gmail.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=GitHub&logoColor=white&link=https://github.com/onesmuskipchumba0)](https://github.com/onesmuskipchumba0)  
+[![Email](https://img.shields.io/badge/Email-onesmuskipchumba5%40gmail.com-blue?style=for-the-badge)](mailto:onesmuskipchumba5@gmail.com)
 
 ---
 
 ## 💬 Let's Collaborate!
 
-I'm always open to new projects, ideas, and opportunities for collaboration. Feel free to reach out and let's create something amazing together!
+I'm always open to new projects, ideas, and opportunities for collaboration. Feel free to reach out, and let's create something amazing together!
+
+---
