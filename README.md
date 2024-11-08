@@ -1,74 +1,63 @@
+Here’s an enhanced and more professional version of your GitHub profile without the logo and projects sections. It focuses on your tech skills, interests, and connects easily with others:
+
+---
 
 # 👋 Hello, I'm Onesmus Bett!
-- 👀 I’m interested in coding with python and javascript
-![logo_2](https://github.com/user-attachments/assets/a1012678-9c51-429c-9f35-986798b357ca)
 
+**🌟 Full-Stack Developer | Python & JavaScript Enthusiast | Web & Desktop Application Developer 🌟**
 
-
-**🌟 Python, JavaScript, HTML, CSS, and PyQt5 Developer 🌟**
-
+---
 
 ## 🚀 About Me
 
-I'm a passionate developer with expertise in creating dynamic and interactive web applications, as well as powerful desktop applications using PyQt5. My journey in the world of programming has been driven by curiosity and a love for solving complex problems with elegant solutions.
+I'm a passionate Computer Science student and developer specializing in creating dynamic web applications and desktop solutions. My journey in tech is driven by curiosity and a dedication to solving problems through clean, efficient code.
 
-- 🌐 **Web Development**: HTML, CSS, JavaScript
-- 🐍 **Backend Development**: Python
+- 💻 **Web Development**: HTML, CSS, JavaScript, React
+- 🐍 **Backend Development**: Python, Django, Node.js
 - 🖥️ **Desktop Applications**: PyQt5
-- 📊 **Libraries & Frameworks**: Flask, Django, React, Node.js
+- 📊 **Libraries & Frameworks**: Flask, Pandas, Numpy, Matplotlib
 - 🛠️ **Tools**: Git, Docker, Visual Studio Code
+
+---
 
 ## 🌱 Currently Learning
 
 - Advanced JavaScript (ES6+)
-- Full-stack development with MERN (MongoDB, Express, React, Node.js)
-- Cloud services and deployment (AWS, Heroku)
+- Full-Stack MERN Development (MongoDB, Express, React, Node.js)
+- Cloud Services & Deployment (AWS, Heroku)
 
-## 🛠️ Projects
+---
 
-### 📦 [Eclipse](https://github.com/ONESMUSBETT/eclipse)
+### 🛠️ Tech Stack
 
-An open-source Python module for console manipulation and decoration, making terminal outputs more vibrant and informative using the `rich` library.
+<p align="left">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy"/>
+  <img src="https://img.shields.io/badge/Matplotlib-0C55C2?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib"/>
+</p>
 
-### 🛒 [Grocery Store Management System](https://github.com/ONESMUSBETT/grocery-store-management-system)
-
-A PyQt5-based GUI application for managing grocery store operations, including sales tracking, customer management, sales history, and report generation.
-
-### ✅ [ToDo-JS](https://github.com/ONESMUSBETT/todo-js)
-
-A simple and interactive ToDo application built with JavaScript, HTML, and CSS. Manage your tasks efficiently with this easy-to-use app.
-
-
-### 🖩 [Calculator App](https://github.com/ONESMUSBETT/calculator-app)
-
-A sleek and functional calculator application built with JavaScript, HTML, and CSS. Perform basic arithmetic operations with a user-friendly interface.
-
-### 🏫 [Student Management System](https://github.com/ONESMUSBETT/student-management-system)
-
-A comprehensive system for managing student information, built with Python and Django. Features include student registration, record management, and reporting.
-
-### 🏥 [Hospital Management System](https://github.com/ONESMUSBETT/hospital-management-system)
-
-A robust hospital management system developed using Python and Django. Includes modules for patient management, appointment scheduling, and medical records.
-
+---
 
 ## 📈 GitHub Stats
 
 ![Onesmus's GitHub Stats](https://github-readme-stats.vercel.app/api?username=onesmuskipchumba0&show_icons=true&theme=radical)
 
+---
+
 ## 🔗 Connect with Me
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/onesmuskipchumba0)](https://github.com/onesmuskipchumba0)
 
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/onesmuskipchumba0)](https://github.com/onesmuskipchumba0)  
+[![Email](https://img.shields.io/badge/Email-onesmuskipchumba5%40gmail.com-blue)](mailto:onesmuskipchumba5@gmail.com)
 
+---
 
 ## 💬 Let's Collaborate!
 
-I'm always open to new opportunities and collaborations. Feel free to reach out to me for any projects, ideas, or just to say hi!
-
-
-
-
-<!---
-onesmuskipchumba0/onesmuskipchumba0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm always open to new projects, ideas, and opportunities for collaboration. Feel free to reach out and let's create something amazing together!
