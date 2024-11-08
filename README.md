@@ -1,6 +1,4 @@
-Here’s an enhanced and more professional version of your GitHub profile without the logo and projects sections. It focuses on your tech skills, interests, and connects easily with others:
 
----
 
 # 👋 Hello, I'm Onesmus Bett!
 
