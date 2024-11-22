@@ -49,7 +49,7 @@ I'm a passionate Computer Science student and developer specializing in creating
 ---
 
 ## 🔗 Connect with Me
-
+![Check out my work](https://onesmusbett-portfolio.vercel.app)
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=GitHub&logoColor=white&link=https://github.com/onesmuskipchumba0)](https://github.com/onesmuskipchumba0)  
 [![Email](https://img.shields.io/badge/Email-onesmuskipchumba5%40gmail.com-blue?style=for-the-badge)](mailto:onesmuskipchumba5@gmail.com)
 
