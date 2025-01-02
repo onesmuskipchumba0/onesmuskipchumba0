@@ -55,7 +55,7 @@ I'm a passionate Computer Science student and developer specializing in creating
 ---
 
 ## 💬 Let's Collaborate!
-[Check out my work](https://onesmusbett-portfolio.vercel.app)
+[Check out my work](https://onesmusbett.vercel.app)
 I'm always open to new projects, ideas, and opportunities for collaboration. Feel free to reach out, and let's create something amazing together!
 
 ---
