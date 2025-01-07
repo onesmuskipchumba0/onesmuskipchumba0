@@ -44,16 +44,17 @@ I'm a passionate Computer Science student and developer specializing in creating
 
 ## 📈 GitHub Stats
 
-![Onesmus's GitHub Stats](https://github-readme-stats.vercel.app/api?username=onesmuskipchumba0&show_icons=true&theme=radical)
+![Onesmus's GitHub Stats](https://github-readme-stats.vercel.app/api?username=onesmuskipchumba0&show_icons=true&theme=blueberry)
 
 ---
 
 ---
 
 ## 🌱 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=onesmuskipchumba0&layout=compact&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onesmuskipchumba0&layout=donut&theme=radical)](https://github.com/onesmuskipchumba0/github-readme-stats)
 
 ---
+
 
 ## 🔗 Connect with Me
 - 🌐 [Portfolio](https://onesmusbett-portfolio.vercel.app)
