@@ -48,7 +48,15 @@ I'm a passionate Computer Science student and developer specializing in creating
 
 ---
 
+---
+
+## 🌱 Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=onesmuskipchumba0&layout=compact&theme=radical)
+
+---
+
 ## 🔗 Connect with Me
+- 🌐 [Portfolio](https://onesmusbett-portfolio.vercel.app)
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=GitHub&logoColor=white&link=https://github.com/onesmuskipchumba0)](https://github.com/onesmuskipchumba0)  
 [![Email](https://img.shields.io/badge/Email-onesmuskipchumba5%40gmail.com-blue?style=for-the-badge)](mailto:onesmuskipchumba5@gmail.com)
 
